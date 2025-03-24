@@ -5,3 +5,4 @@ print(
     int main 
     int = 10;
     1liubgwkdjnvf;lkjdsanvc;o
+    salkf;kdsahf;kdsajf
